@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SakshiDosani
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on group projects
+- 📫 sakshi.dosani04@gmail.com
